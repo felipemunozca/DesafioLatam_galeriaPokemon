@@ -1,0 +1,19 @@
+Feedback Desafío - Galería personalizada de Pokemones
+
+Buen trabajo.
+
+Requerimientos:
+
+1. Hacer uso de Async/Await para las funciones que consulten los endpoints de la pokeapi. (3 Puntos)
+
+    Puntaje obtenido: 3
+
+2. Usar el Promise.all() para ejecutar y obtener la data de las funciones asíncronas generando un nuevo arreglo con la data a 
+entregar en el siguiente requerimiento. (3 Puntos)
+
+    Puntaje obtenido: 3
+
+3. Disponibilizar la ruta http://localhost:3000/pokemones que devuelva un JSON con el nombre y la url de una imagen de 150 pokemones, 
+así como verás en la siguiente imagen. (4 Puntos)
+
+    Puntaje obtenido: 4
